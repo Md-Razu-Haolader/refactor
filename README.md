@@ -21,13 +21,6 @@ Happy coding! 🍕
 
 ---
 
-Please add a short description of your refactoring rationale here within this code comment block:
-
-1.
-2.
-
----
-
 ```bash
 'use strict'
 
