@@ -1,4 +1,4 @@
-const ExpenseService = require('../src/services/expense.service');
+const ExpenseService = require('../../src/services/expense.service');
 const expenseService = new ExpenseService();
 
 describe('Expense Service', () => {

@@ -1,5 +1,5 @@
-const ExpenseFactory = require('../src/factories/expense.factory');
-const Expense = require('../src/expenses/expense');
+const ExpenseFactory = require('../../src/factories/expense.factory');
+const Expense = require('../../src/expenses/expense');
 const expenseFactory = new ExpenseFactory();
 
 describe('Expense Factory', () => {

@@ -1,5 +1,5 @@
-const ExpenseService = require('../src/services/expense.service');
-const ExpenseCalculatorService = require('../src/services/expense-calculator.service');
+const ExpenseService = require('../../src/services/expense.service');
+const ExpenseCalculatorService = require('../../src/services/expense-calculator.service');
 
 const expenses = new ExpenseService().fetch();
 const expenseCalculatorService = new ExpenseCalculatorService(expenses);
