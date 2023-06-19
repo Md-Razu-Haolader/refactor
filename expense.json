@@ -1,0 +1,17 @@
+{
+    "data": [
+        { "type": 1, "amount": 15.2 },
+        { "type": 1, "amount": 19 },
+        { "type": 1, "amount": 20.10 },
+        { "type": 2, "amount": 10.2 },
+        { "type": 2, "amount": 50 },
+        { "type": 2, "amount": 50.01 },
+        { "type": 3, "amount": 16.0 },
+        { "type": 4, "amount": 35.0 },
+        { "type": 4, "amount": 125.0 },
+        { "type": 3, "amount": 120.2 },
+        { "type": 3, "amount": 100 },
+        { "type": 3, "amount": 100.05 },
+        { "type": 4, "amount": 40.5 }
+    ]
+}
